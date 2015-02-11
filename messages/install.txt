@@ -16,6 +16,6 @@ Based on Dracula color scheme.
 *Example settings*
 
     {
-      "theme": "Carmesim.sublime-theme",
-      "color_scheme": "Packages/Theme - Carmesim/Dracula.dark.tmTheme"
+        "theme": "Carmesim.sublime-theme",
+        "color_scheme": "Packages/Dracula Color Scheme/Dracula.tmTheme"
     }

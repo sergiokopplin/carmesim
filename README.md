@@ -20,6 +20,14 @@ Based on Dracula color scheme.
 
 ### How to Install
 
+#### Install Dracula using Package Control
+
+If you are using Package Control, you can easily install Dracula Theme via the Package Control: Install Package menu item. The Dracula Theme package is listed as `Dracula Color Scheme` in the packages list.
+
+#### Activating
+
+Go to `Preferences -> Color Scheme -> User` and select the `Dracula Color Scheme`.
+
 #### Manual
 
 You can also install the theme manually:
@@ -41,7 +49,7 @@ Activate the UI theme and color scheme by modifying your user preferences file, 
 ```json
 {
   "theme": "Carmesim.sublime-theme",
-  "color_scheme": "Packages/Theme - Carmesim/Dracula.tmTheme"
+  "color_scheme": "Packages/Dracula Color Scheme/Dracula.tmTheme"
 }
 ```
 
