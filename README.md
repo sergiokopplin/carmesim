@@ -1,16 +1,14 @@
 # Carmesim
 
-A set of custom UI themes for Sublime Text 2/3 based on [Spacegray](https://github.com/kkga/spacegray). Comes with [Dracula](https://github.com/zenorocha/dracula-theme) :smiling_imp: color scheme.
+A set of custom UI themes for Sublime Text 2/3 based on [Spacegray](https://github.com/kkga/spacegray). Comes with [Dracula](https://github.com/zenorocha/dracula-theme) color scheme.
 
-*All the credits to the creators os theme Dracula and Spacegray!*
+*All the credits to the creators of themes Dracula and Spacegray!*
 
 ***
 
 ### Theme
 
 #### Carmesim
-
-Based on Dracula color scheme.
 
 ![image](screenshots/carmesim.png)
 
