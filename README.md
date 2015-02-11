@@ -26,7 +26,7 @@ If you are using Package Control, you can easily install Dracula Theme via the P
 
 #### Activating
 
-Go to `Preferences -> Color Scheme -> User` and select the `Dracula Color Scheme`.
+Go to `Preferences -> Color Scheme -> Dracula Color Scheme` and select the `Dracula`.
 
 #### Manual
 
