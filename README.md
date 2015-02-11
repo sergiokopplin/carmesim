@@ -33,6 +33,12 @@ A set of custom UI themes for Sublime Text 2/3 based on [Spacegray](https://gith
 
 ***
 
+### Contributors
+
+```
+   1	@skube
+```
+
 ### Thanks
 
 All the credits to the creators os theme Dracula and Spacegray!
