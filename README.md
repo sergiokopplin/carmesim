@@ -36,7 +36,7 @@ A set of custom UI themes for Sublime Text 2/3 based on [Spacegray](https://gith
 ### Contributors
 
 ```
-   1	@skube
+   1  @skube
    1  @mgmeyers
 ```
 
