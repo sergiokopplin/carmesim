@@ -228,7 +228,7 @@
     {
         "class": "scroll_bar_control",
         "layer0.texture": "",
-        "layer0.tint": [68, 71, 90], // -01
+        "layer0.tint": [40, 42, 54], // -01
         "layer0.opacity": 1,
         "layer0.inner_margin": [0,0],
         "blur": true
@@ -238,7 +238,7 @@
         "class": "scroll_bar_control",
         "attributes": ["horizontal"],
         "layer0.texture": "",
-        "layer0.tint": [68, 71, 90], // -01
+        "layer0.tint": [40, 42, 54], // -01
         "layer0.inner_margin": [0,0],
         "blur": true
     },
