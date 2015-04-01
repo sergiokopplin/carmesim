@@ -67,6 +67,8 @@
     // Tab close button
     {
         "class": "tab_close_button",
+        "layer0.texture": "Theme - Carmesim/Carmesim/close.png",
+        "layer0.opacity": 0,
         "layer0.tint": [101, 115, 126] // 03
     },
     {
